@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.OracleDialect
+  datasource:
+    url: jdbc:mysql://localhost:3306/demo_mysql_db
+    username: root
+    password: ilovesdl
+    driver-class-name: com.mysql.jdbc.Driver

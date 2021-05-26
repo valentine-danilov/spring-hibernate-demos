@@ -1,0 +1,22 @@
+by/danilov/repository/PersonSeqRepository.java
+ by.danilov.repository.PersonSeqRepository
+by/danilov/repository/PersonIdentityRepository.java
+ by.danilov.repository.PersonIdentityRepository
+by/danilov/repository/PersonAutoRepository.java
+ by.danilov.repository.PersonAutoRepository
+by/danilov/domain/PersonAuto.java
+ by.danilov.domain.PersonAuto
+by/danilov/repository/PersonRepository.java
+ by.danilov.repository.PersonRepository
+by/danilov/domain/PersonTable.java
+ by.danilov.domain.PersonTable
+by/danilov/domain/PersonIdentity.java
+ by.danilov.domain.PersonIdentity
+by/danilov/repository/PersonTableRepository.java
+ by.danilov.repository.PersonTableRepository
+by/danilov/Application.java
+ by.danilov.Application
+by/danilov/domain/PersonSeq.java
+ by.danilov.domain.PersonSeq
+by/danilov/domain/AbstractPerson.java
+ by.danilov.domain.AbstractPerson
